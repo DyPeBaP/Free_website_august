@@ -180,7 +180,7 @@ body{
     margin-left: 52px;
 }
 
-                        /* ПРО НАС */
+                        /* О НАС */
 
 .about{
     background-image: linear-gradient(180deg, #010203 8.85%, rgba(1, 2, 3, 0) 86.98%), url(../images/about.jpg);
@@ -188,7 +188,7 @@ body{
     background-size: cover;
 }
 
-.about__title{
+.title{
     font-family: 'spaceagecyrillic';
     font-size: 60px;
     line-height: 1;
@@ -197,11 +197,11 @@ body{
     margin-bottom: 100px;
 }
 
-.about__galactic-box{
+.about__item{
     display: flex;
 }
 
-.about__img-galactic{
+.about__img{
     background-position: center;
     background-size: cover;
     width: 500px;
@@ -228,7 +228,7 @@ body{
     display: flex;
 }
 
-.about__galactic-text{
+.about__content-text{
     max-width: 165px;
 }
 
